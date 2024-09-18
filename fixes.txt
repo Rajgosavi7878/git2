@@ -1,7 +1,13 @@
-<<<<<<< HEAD
+
 i am  a fix file which WILL BE used to fixed the bug
-=======
+
 i am  a fix file which WILL BE used to fixed the bug
 
 fixed another bug
->>>>>>> bug-fix
+
+
+
+one more bug detected and fix
+fourth bug fixed
+ffth bug fixed
+
